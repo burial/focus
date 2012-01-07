@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title: !focus
+## Notes: set your focus with shift click
+## Author: burial
+## Version: 3
+
+main.lua
